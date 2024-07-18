@@ -1,3 +1,9 @@
 # cibus-copilot
-
-Primeiro passo vamos contruir a conexão com o banco e um serviço para ser o repository e conecar no meu banco mongo
+ 
+ToDo MVP
+- [x] Criar um servidor web
+- [ ] Configurar o mongo
+- [ ] Criar os dominios necessários
+- [ ] Integrar com chatGPT
+- [ ] Enviar schema para GPT analisar
+- [ ] Integrar Whatsapp
